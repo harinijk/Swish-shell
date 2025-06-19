@@ -1,0 +1,19 @@
+total 240
+-rwxrwxrwx 1 root root  1441 Mar  5 09:11 Makefile
+-rw------- 1 root root     0 Mar 20 05:32 cc
+-rwxrwxrwx 1 root root  2923 Mar  5 09:11 job_list.c
+-rwxrwxrwx 1 root root  2039 Mar  5 09:11 job_list.h
+-rw-r--r-- 1 root root  9024 Mar 20 05:31 job_list.o
+-rw-r--r-- 1 root root 11584 Mar 19 18:09 proj2-code.zip
+-rwxr-xr-x 1 root root 19168 Mar 20 05:31 slow_write
+-rwxrwxrwx 1 root root  1882 Mar  5 09:11 string_vector.c
+-rwxrwxrwx 1 root root  1703 Mar  5 09:11 string_vector.h
+-rw-r--r-- 1 root root  7464 Mar 20 05:31 string_vector.o
+-rwxr-xr-x 1 root root 42552 Mar 20 05:31 swish
+-rwxrwxrwx 1 root root  8961 Mar 19 18:05 swish.c
+-rw-r--r-- 1 root root 20016 Mar 20 05:31 swish.o
+-rwxrwxrwx 1 root root 11752 Mar 19 18:09 swish_funcs.c
+-rwxrwxrwx 1 root root  2290 Mar  5 09:11 swish_funcs.h
+-rw-r--r-- 1 root root 24712 Mar 20 05:31 swish_funcs.o
+drwxrwxrwx 1 root root   512 Mar 19 18:09 test_cases
+-rwxrwxrwx 1 root root 45386 Mar  5 09:11 testius
