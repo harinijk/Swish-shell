@@ -37,3 +37,38 @@ To compile and run all test cases:
 ```bash
 make
 make test
+
+```
+##  Sample Usage
+
+@> ls -l > output.txt
+
+@> cat < input.txt
+
+@> wc -l < input.txt > linecount.txt
+
+@> ./a.out &
+
+@> jobs
+
+@> fg 0
+
+@> wait-for 0
+
+
+
+⚙##  Build & Run
+
+make
+./swish
+
+## Learnings
+This project involved:
+
+Deep understanding of Unix process lifecycle and job control
+
+Managing signals and foreground/background processes
+
+Implementing core shell logic from scratch using low-level system calls
+
+
